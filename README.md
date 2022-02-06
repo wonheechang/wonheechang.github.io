@@ -1,5 +1,39 @@
 # Table of Contents
 
+- [Typography](#typography)
+  - [Headings](#headings)
+  - [Horizontal Rules](#horizontal-rules)
+  - [Body Copy](#body-copy)
+  - [Linebreaks](#linebreaks)
+  - [Empahsis](#emphasis)
+      - [Bold](#bold)
+      - [Italics](#italics)
+      - [Strikethrough](#strikethrough)
+- [Links](#links)
+  - [Basic Link](#basic-link)
+  - [Add a Title](#add-a-title)
+  - [Named Anchors](#named-anchors)
+- [Blockquotes](#blockquotes)
+  - [Nested Blockquotes](#nested-blockquotes) 
+- [Lists](#lists)
+  - [Unordered](#unordered)
+  - [Ordered](#ordered)
+- [Tables](#tables)
+  - [Right Aligned Text](#right-aligned-text)
+- [Task List](#task-list)
+- [Images](#images)
+- [Code](#code)
+  - [Inline Code](#inline-code)
+  - [Indented Code](#indented-code)
+  - [Block Code "Fences"](#block-code-fences)
+  - [Syntax Highlighting](#syntax-highlighting)
+- [Keyboard Keys](#keyboard-keys)
+- [Emojis](#emojis)
+- [Credit](#credit)
+
+---
+
+
 # Typography 
 
 ## Headings
